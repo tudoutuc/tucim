@@ -2,24 +2,15 @@
 
 !!!	特别注意
 
-	编写请参照[贡献指南](edit/main.md)，按照本项目要求的规范格式参与编写，本项目使用[mkdocs-material](https://squidfunk.github.io/mkdocs-material/)主题，你可以参照官方文档对本项目进行自定义修改。若您是对文档知识的补充或内容勘误，可**通过问卷调查**形式参与
+	编写请参照[贡献指南](edit/main.md)，按照本文档要求的规范格式参与编写，本文档使用[mkdocs-material](https://squidfunk.github.io/mkdocs-material/)主题，你可以参照官方文档对本项目进行自定义修改。若您是对文档知识的补充或内容勘误，可**通过问卷调查**形式参与
 
 ## 通过问卷调查
 
 点击这里 [**问卷调查**](https://www.wenjuan.com/s/UZBZJvmsjpz/) 参与问卷调查。
 
 ## 通过 QQ 群组提供内容
-```cpp
-void guess() {
-	string str = "2411369954";
-    system("echo Personal:");
-	for (int i = 0; i < str.length(); i++) {
-		(str[i] - '0' != 9)?cout << (str[i] - '0') - 1:cout<<str[i];
-	}
-}
 
-
-```
+...
 
 ## 通过 Github 
 
@@ -35,10 +26,10 @@ void guess() {
  
 2. 接下来的操作与单页面编辑相同，填写**Commit**信息，点击 **Propose changes** 提交，点击 **Create pull request** 提交PR请求。
 
-### #3 Fork此项目到本地编辑
+### 本地编辑
 
 参考 [本地编辑](edit/local.md) 操作，将本项目Fork到你的Github账户下，进行本地编辑。
 
-### #4 仓库页面提供内容
+### 提交 Issues 或 Discussions
 在此项目的 Github 仓库页面提出 "[Issues](https://github.com/teriyakisushi/tucim/issues)" 或在 "[Discussions](https://github.com/teriyakisushi/tucim/discussions)" 中提供内容。
 
